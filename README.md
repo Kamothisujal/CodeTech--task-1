@@ -7,4 +7,4 @@ Duration : August to September 2024 <br>
 Mentor : Neela Santhosh Kumar <br>
 ![Screenshot (3)](https://github.com/user-attachments/assets/efd27cba-f08a-4e50-9923-34356a1d072a)
 this project is about task list web app <br>
-that list about your task witch is first and last 
+that list about your task witch is first or last 
